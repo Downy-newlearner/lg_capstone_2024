@@ -1,0 +1,122 @@
+1: Equipment_Dam:
+
+2: Model.Suffix_Dam:
+
+3: Workorder_Dam:
+
+4: DISCHARGED SPEED OF RESIN Collect Result_Dam:
+
+5: HEAD NORMAL COORDINATE X AXIS(Stage1) Collect Result_Dam:
+
+6: HEAD NORMAL COORDINATE X AXIS(Stage2) Collect Result_Dam:
+
+7: HEAD NORMAL COORDINATE X AXIS(Stage3) Collect Result_Dam:
+
+8: Head Clean Position Z Collect Result_Dam:
+
+9: Head Purge Position Z Collect Result_Dam:
+
+10: Head Zero Position Y Collect Result_Dam:
+
+11: Head Zero Position Z Collect Result_Dam:
+
+12: Machine Tact time Collect Result_Dam:
+
+13: PalletID Collect Result_Dam:
+
+14: Production Qty Collect Result_Dam:
+
+15: Receip No Collect Result_Dam:
+
+16: THICKNESS 1 Collect Result_Dam:
+
+17: THICKNESS 2 Collect Result_Dam:
+
+18: THICKNESS 3 Collect Result_Dam:
+
+19: 1st Pressure Collect Result_AutoClave:
+
+20: 1st Pressure 1st Pressure Unit Time_AutoClave:
+
+21: 2nd Pressure Collect Result_AutoClave:
+
+22: 2nd Pressure Unit Time_AutoClave:
+
+23: 3rd Pressure Collect Result_AutoClave:
+
+24: 3rd Pressure Unit Time_AutoClave:
+
+25: Chamber Temp. Collect Result_AutoClave:
+
+26: Chamber Temp. Unit Time_AutoClave:
+
+27: Chamber Temp. Judge Value_AutoClave:
+
+28: DISCHARGED SPEED OF RESIN Collect Result_Fill1:
+
+29: HEAD NORMAL COORDINATE X AXIS(Stage1) Collect Result_Fill1:
+
+30: HEAD NORMAL COORDINATE X AXIS(Stage2) Collect Result_Fill1:
+
+31: HEAD NORMAL COORDINATE X AXIS(Stage3) Collect Result_Fill1:
+
+32: Head Purge Position Z Collect Result_Fill1:
+
+33: Machine Tact time Collect Result_Fill1:
+
+34: HEAD NORMAL COORDINATE X AXIS(Stage1) Collect Result_Fill2:
+
+35: HEAD NORMAL COORDINATE X AXIS(Stage2) Collect Result_Fill2:
+
+36: HEAD NORMAL COORDINATE X AXIS(Stage3) Collect Result_Fill2:
+
+37: Head Purge Position Z Collect Result_Fill2:
+
+38: Machine Tact time Collect Result_Fill2:
+
+39: target:
+
+40: Set ID:
+
+41: CURE DpS X Collect Result_Dam:
+
+42: CURE DpS Z Collect Result_Dam:
+
+43: CURE DpS ¥È Collect Result_Dam:
+
+44: CURE DpS X Collect Result_Fill2:
+
+45: CURE DpS Z Collect Result_Fill2:
+
+46: CURE DpS ¥È Collect Result_Fill2:
+
+47: DISCHARGED VpS RESIN(Stage1) Collect Result_Dam:
+
+48: DISCHARGED VpS RESIN(Stage2) Collect Result_Dam:
+
+49: DISCHARGED VpS RESIN(Stage3) Collect Result_Dam:
+
+50: DISCHARGED VpS RESIN(Stage1) Collect Result_Fill1:
+
+51: DISCHARGED VpS RESIN(Stage2) Collect Result_Fill1:
+
+52: DISCHARGED VpS RESIN(Stage3) Collect Result_Fill1:
+
+53: Average Stage1 CL Distance Speed Collect Result_Dam:
+
+54: Average Stage2 CL Distance Speed Collect Result_Dam:
+
+55: Average Stage3 CL Distance Speed Collect Result_Dam:
+
+56: HEAD NORMAL COORDINATE Y AXIS(Stage) Collect Result_Dam:
+
+57: HEAD NORMAL COORDINATE Z AXIS(Stage) Collect Result_Dam:
+
+58: HEAD NORMAL COORDINATE Y AXIS(Stage) Collect Result_Fill1:
+
+59: HEAD NORMAL COORDINATE Z AXIS(Stage) Collect Result_Fill1:
+
+60: HEAD NORMAL COORDINATE Y AXIS(Stage) Collect Result_Fill2:
+
+61: HEAD NORMAL COORDINATE Z AXIS(Stage) Collect Result_Fill2:
+
